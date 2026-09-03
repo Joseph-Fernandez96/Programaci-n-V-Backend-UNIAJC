@@ -1,0 +1,8 @@
+{
+    "estudiantes": [
+        {"Nombre": "Alejandro", "edad": 23},
+        {"Nombre": "Walter", "edad": 19},
+        {"Nombre": "Simon", "edad": 28},
+        {"Nombre": "Karen", "edad": 33}
+    ]
+}

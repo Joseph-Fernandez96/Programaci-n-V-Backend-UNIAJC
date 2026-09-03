@@ -1,0 +1,33 @@
+{
+    "Productos": [
+        {
+            "Id": 0,
+            "Nombre": "Camisa",
+            "Precio": 14000,
+            "Disponible": true,
+            "Categoria": "Deportes",
+            "Marcas relacionadas": 
+            [
+                "nike", "adidas", "puma"
+            ]
+        },
+
+        {
+            "Id": 1,
+            "Nombre": "pantalon",
+            "Precio": 22000,
+            "Disponible": true,
+            "Categoria": "Deportes",
+            "Marcas relacionadas": null
+        },
+
+        {
+            "Id": 2,
+            "Nombre": "Zapatillas",
+            "Precio": 35000,
+            "Disponible": true,
+            "Categoria": "Deportes",
+            "Marcas relacionadas": null
+        }
+    ]
+}

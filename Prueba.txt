@@ -1,0 +1,51 @@
+{
+    "nombre": -> clave
+    "Alejandro" -> valor
+
+    "edad": -> clave 
+    22
+
+}
+
+{
+    "clave": "valor"
+}
+
+Debe tener:
+
+nombre
+apellido
+edad
+carrera
+semestre
+
+Diferenciamos los tipos de datos 
+
+Campo ------- tipo
+nombre ------- String 
+Edad ------- int - numero
+Promedio ------- decimal
+activo ------- boolean
+null ------- campo vacio ausencia intencional o un dato desconocido
+
+Crear un arreglo (Arrays)
+
+{
+    "estudiantes": [
+        "Carlos",
+        "Juan",
+        "Pedro",
+        "Laura"
+    ]
+}
+
+Organizar este arriglo con nombre de estudiante y la edad
+
+Una tienda necesita enviar la informacion de un producto desde el backend hacia el frintend
+El producto tiene:
+
+id
+nombreprecio
+disponible
+categoria
+marcas relacionadas
